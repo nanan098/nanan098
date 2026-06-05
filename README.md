@@ -1,16 +1,18 @@
-## Hi there 👋
+# Cześć, jestem Damian 👋
 
-<!--
-**nanan098/nanan098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem początkującym programistą z fundamentami w obszarze IT Support i serwisu sprzętu komputerowego. Rozwiązywanie problemów technicznych – czy to w linijkach kodu, czy na poziomie fizycznych podzespołów – to moje naturalne środowisko. Obecnie skupiam się na tworzeniu praktycznych aplikacji i poszerzaniu wiedzy programistycznej.
 
-Here are some ideas to get you started:
+### 🛠️ Technologie, z którymi pracuję
+<!-- Wymień technologie, w których czujesz się pewnie -->
+*   **Języki programowania:** Python, HTML, CSS, JavaScript, TypeScript i SQL
+*   **Narzędzia i frameworki:** Git, Docker, React, ExpressJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Nad czym obecnie pracuję
+*   Rozwijam projekt który pozwala symulować wyniki sezonu lig piłkarskich przez sztuczną inteligencję oraz możliwością dodawania i usuwania dowolnych klubów z topowych lig europejskich.
+
+### 📫 Kontakt
+*   **LinkedIn:** www.linkedin.com/in/damian-gajdziński
+*   **Email:** damiangajdzinski45@gmail.com
+
+---
+*"Od diagnozowania sprzętu po pisanie własnego oprogramowania."*
